@@ -1,0 +1,12 @@
+body{background-color: rgb(162, 232, 245);}
+.div1{font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;}
+.bold{font-weight: bold;}
+.div2{border: 5px solid black; padding:5px; margin: 2px;}
+.anchor{font-family: Georgia, 'Times New Roman', Times, serif; font-size: 20px; color: rgb(21, 30, 201) ;}
+.title{font-size: 50px; font-weight: bold; color: rgb(38, 19, 210); text-decoration: underline;}
+footer {
+    text-align: center;
+    padding: 3px;
+    background-color: rgb(38, 19, 210);
+    color: white;
+  }
